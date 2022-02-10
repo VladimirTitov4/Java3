@@ -1,18 +1,18 @@
-2022-32-10 20:32:24.035 [main] DEBUG log.Log4j_Example - Debug Message Logged !!!
-2022-32-10 20:32:24.037 [main] INFO  log.Log4j_Example - Info Message Logged !!! My name is Oleg
-2022-32-10 20:32:24.039 [main] INFO  log.Log4j_Example - Info Message Logged !!! My name is Oleg
-2022-32-10 20:32:24.039 [main] ERROR log.Log4j_Example - Error Message Logged !!!
+2022-52-10 21:52:15.284 [main] DEBUG log.Log4j_Example - Debug Message Logged !!!
+2022-52-10 21:52:15.287 [main] INFO  log.Log4j_Example - Info Message Logged !!! My name is Oleg
+2022-52-10 21:52:15.288 [main] INFO  log.Log4j_Example - Info Message Logged !!! My name is Oleg
+2022-52-10 21:52:15.288 [main] ERROR log.Log4j_Example - Error Message Logged !!!
 java.lang.NullPointerException: NullError
 	at log.Log4j_Example.main(Log4j_Example.java:16) [classes/:?]
-2022-34-10 20:34:52.032 [main] DEBUG log.Log4j_Example - Debug Message Logged !!!
-2022-34-10 20:34:52.035 [main] INFO  log.Log4j_Example - Info Message Logged !!! My name is Oleg
-2022-34-10 20:34:52.036 [main] INFO  log.Log4j_Example - Info Message Logged !!! My name is Oleg
-2022-34-10 20:34:52.037 [main] ERROR log.Log4j_Example - Error Message Logged !!!
+2022-53-10 21:53:21.632 [main] DEBUG  - Debug Message Logged !!!
+2022-53-10 21:53:21.634 [main] INFO   - Info Message Logged !!! My name is Oleg
+2022-53-10 21:53:21.635 [main] INFO   - Info Message Logged !!! My name is Oleg
+2022-53-10 21:53:21.636 [main] ERROR  - Error Message Logged !!!
 java.lang.NullPointerException: NullError
 	at log.Log4j_Example.main(Log4j_Example.java:16) [classes/:?]
-2022-39-10 20:39:23.217 [main] DEBUG log.Log4j_Example - Debug Message Logged !!!
-2022-39-10 20:39:23.219 [main] INFO  log.Log4j_Example - Info Message Logged !!! My name is Oleg
-2022-39-10 20:39:23.220 [main] INFO  log.Log4j_Example - Info Message Logged !!! My name is Oleg
-2022-39-10 20:39:23.220 [main] ERROR log.Log4j_Example - Error Message Logged !!!
+2022-02-10 21:54:14.421 [main] DEBUG  - Debug Message Logged !!!
+2022-02-10 21:54:14.422 [main] INFO   - Info Message Logged !!! My name is Oleg
+2022-02-10 21:54:14.423 [main] INFO   - Info Message Logged !!! My name is Oleg
+2022-02-10 21:54:14.423 [main] ERROR  - Error Message Logged !!!
 java.lang.NullPointerException: NullError
 	at log.Log4j_Example.main(Log4j_Example.java:16) [classes/:?]
