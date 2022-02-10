@@ -1,0 +1,7 @@
+[2022-02-10 21:50:19] [INFO   ] Logger Name: log.JUL_Example 
+[2022-02-10 21:50:19] [FINEST ] Logger Name: log.JUL_Example. My name is Vladimir 
+[2022-02-10 21:50:19] [WARNING] Can cause ArrayIndexOutOfBoundsException 
+[2022-02-10 21:50:19] [INFO   ] a = [1, 2, 3] 
+[2022-02-10 21:50:19] [WARNING] Can cause ArrayIndexOutOfBoundsException 
+[2022-02-10 21:50:19] [CONFIG ] index is set to 4 
+[2022-02-10 21:50:19] [SEVERE ] Exception occur 
